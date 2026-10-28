@@ -1,0 +1,24 @@
+# Java / Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.class
+
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE & OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+storefront/data/
+
+# Docker
+.env
